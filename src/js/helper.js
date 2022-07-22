@@ -62,4 +62,4 @@ export const AJAX = async function (url, uploadData = undefined) {
 //   } catch (err) {
 //     throw err;
 //   }
-// };
+//  };
